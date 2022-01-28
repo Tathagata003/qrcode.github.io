@@ -1,0 +1,35 @@
+body{
+    background-image: url(image30.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 175px;
+    margin-left: 630px;
+    
+    
+}
+
+.qr{
+    background-color: whitesmoke;
+    padding: 10px;
+    width: 260px;
+    text-align: center;
+    border-radius: 15px;
+
+}
+.qr_image_qr{
+    height: 250px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.qr_txt1{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.qr_txt2{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: hsl(220, 15%, 55%);
+}

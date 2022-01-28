@@ -1,0 +1,9 @@
+.qrcode{
+    height: 300px;
+    width: 150px;
+    padding: 10px;
+    margin: 20px solid aliceblue;
+    border-radius: 3px;
+    text-align: center;
+    
+}
